@@ -60,6 +60,5 @@
 - LinkedIn: www.linkedin.com/in/aditya62ns60
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSahoo7&show_icons=true&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=radical)
