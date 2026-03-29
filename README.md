@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya
 
-<!--
-**Adityasahoo7/AdityaSahoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Tester | QA Engineer | Automation Enthusiast  
+📍 India  
+🚀 Passionate about testing, automation & building smart solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔍 Manual + Automation Testing
+- ⚙️ Working with APIs & backend testing
+- 🤖 Built ML model for salary prediction
+- 📊 Love improving system quality & performance
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: C#, JavaScript
+- 🧪 Testing: Selenium, Postman
+- 🗄️ Database: SQL Server
+- ⚙️ Tools: Git, Azure DevOps
+
+---
+
+## 📌 Projects
+- 🔹 Employee Management System
+- 🔹 Salary Prediction ML API
+- 🔹 Automation Testing Framework
+
+---
+
+## 📈 GitHub Stats
+(Add later using tools)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (your link)
