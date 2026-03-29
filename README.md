@@ -59,7 +59,7 @@
 ## 📌 Projects
 - 🔹 Employee Management System
 - 🔹 Salary Prediction ML API
-- 🔹 Automation Testing Framework
+- 🔹 Property Selling Application
 
 ---
 
