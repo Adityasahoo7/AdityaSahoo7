@@ -1,11 +1,6 @@
 # Hi 👋, I'm Aditya
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=.NET+Full+Stack+Developer;Building+Scalable+Web+Applications;Angular+%7C+Azure+Cloud;Clean+Code+%7C+High+Performance)
 
-💻 .NET Full Stack Developer | Angular | Azure  
-📍 India  
-🚀 Building Scalable Web Applications | Backend Expertise | Cloud Integration  
-
-⚡ Eat → Code → Repeat
 
 ---
 
