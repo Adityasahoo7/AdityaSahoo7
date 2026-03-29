@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aditya
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=.NET+Full+Stack+Developer;Building+Scalable+Web+Applications;Angular+%7C+Azure+Cloud;Clean+Code+%7C+High+Performance)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=.NET+Full+Stack+Developer;Building+Scalable+Web+Applications;.Net+Angular+%7C+Azure+Cloud;Clean+Code+%7C+High+Performance)
 
 
 ---
