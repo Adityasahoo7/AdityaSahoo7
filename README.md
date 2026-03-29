@@ -30,15 +30,6 @@
 
 ---
 
-## 🚀 What I Do
-- ✔️ Develop scalable full-stack web applications  
-- ✔️ Build secure and high-performance REST APIs  
-- ✔️ Design interactive and responsive UI using Angular  
-- ✔️ Optimize database queries and improve application performance  
-- ✔️ Deploy and manage applications on Azure  
-
----
-
 ---
 
 ## 🤝 Let's Connect
