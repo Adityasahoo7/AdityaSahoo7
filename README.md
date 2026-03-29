@@ -4,6 +4,8 @@
 📍 India  
 🚀 Building Scalable Web Applications | Backend Expertise | Cloud Integration  
 
+⚡ Eat → Code → Repeat
+
 ---
 
 ## 🧠 About Me
@@ -35,19 +37,6 @@
 - ✔️ Deploy and manage applications on Azure  
 
 ---
-
-## 📈 Current Focus
-- ⚡ Improving application scalability & performance  
-- ☁️ Deep diving into Azure cloud architecture  
-- 🔄 Strengthening CI/CD pipelines  
-- 🤖 Exploring AI/ML integration in real-world applications  
-
----
-
-## 🏆 Highlights
-- 🚀 Developed full-stack applications using .NET & Angular  
-- 🤖 Created an ML-based Salary Prediction API  
-- ⚙️ Improved system performance through optimized backend logic  
 
 ---
 
