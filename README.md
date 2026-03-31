@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: C#, JavaScript, TypeScript  
+- 💻 Languages: C#, TypeScript  
 - 🌐 Frontend: Angular, HTML, CSS  
 - 🔧 Backend: ASP.NET Core, Web API  
 - 🗄️ Database: SQL Server  
