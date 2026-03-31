@@ -11,7 +11,8 @@
 - 🗄️ Proficient in database design, optimization & query performance using SQL Server  
 - ☁️ Experience working with Microsoft Azure for deployment & cloud solutions  
 - 🔄 Working in Agile environments with a focus on clean, maintainable code  
-- 🤖 Built and integrated an ML-based Salary Prediction system  
+- 🤖 Built and integrated an ML-based Models
+  
 
 ---
 
