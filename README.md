@@ -49,4 +49,4 @@
 
 
 
-![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=blue-green)
