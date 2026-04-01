@@ -36,7 +36,7 @@
 ## 📌 Projects
 - 🔹 Employee Management System
 - 🔹 Salary Prediction ML API
-- 🔹 Property Selling Application
+- 🔹 Property Selling Application(1 acers)
 
 ---
 
