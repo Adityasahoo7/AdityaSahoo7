@@ -50,5 +50,3 @@
 
 
 ![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=blue-green)
-![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=algolia)
