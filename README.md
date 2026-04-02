@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 💼 .NET Full Stack Developer with hands-on experience in building end-to-end web applications  
+- 💼 .NET Full Stack Developer with hands-on experience in building end-to-end AI based web applications  
 - ⚙️ Strong expertise in backend development using ASP.NET Core & RESTful APIs  
 - 🎯 Skilled in designing responsive and dynamic frontends using Angular  
 - 🗄️ Proficient in database design, optimization & query performance using SQL Server  
