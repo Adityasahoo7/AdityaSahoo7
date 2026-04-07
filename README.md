@@ -29,7 +29,7 @@
 ---
 
 ## 🤝 Let's Connect
-- 💬 Open to collaboration on .NET, Angular & Cloud-based projects  
+- 💬 Open to collaboration for .NET, Angular & Cloud-based projects  
 
 ---
 
