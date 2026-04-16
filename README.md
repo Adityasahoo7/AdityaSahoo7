@@ -12,6 +12,8 @@
 - ☁️ Experience working with Microsoft Azure for deployment & cloud solutions  
 - 🔄 Working in Agile environments with a focus on clean, maintainable code  
 - 🤖 Built and integrated an ML-based Models
+
+- -Build industry level Application for development 
   
 
 ---
