@@ -13,7 +13,9 @@
 - 🔄 Working in Agile environments with a focus on clean, maintainable code  
 - 🤖 Built and integrated an ML-based Models
 
-- -Build industry level Application for development 
+- -Build industry level Application for development
+- +
+- Deployment project in azure cloude environment 
   
 
 ---
