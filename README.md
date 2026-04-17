@@ -16,7 +16,8 @@
 - -Build industry level Application for development
 - +
 - Deployment project in azure cloude environment
-- also write enterprises level code 
+- also write enterprises level code
+- also a team player 
   
 
 ---
