@@ -17,6 +17,7 @@
 - +
 - Deployment project in azure cloude environment
 - also write enterprises level code
+- Manage Team and work accordingly 
   
 
 ---
