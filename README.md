@@ -54,5 +54,9 @@
 - LinkedIn: www.linkedin.com/in/aditya62ns60
 
 
+## GitHub Activity Graph
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasahoo7&theme=react-dark)](https://github.com/Adityasahoo7)
+
 
 ![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=blue-green)
