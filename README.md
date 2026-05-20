@@ -53,4 +53,4 @@
 
 
 
-![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=blue-green)
+![Streak](https://streak-stats.demolab.com/?user=AdityaSahoo7&theme=blue-green&cache_seconds=86400)
