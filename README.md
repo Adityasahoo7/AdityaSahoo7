@@ -49,7 +49,7 @@
 
 ## GitHub Activity Graph
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasahoo7&theme=react-dark&hide_border=true&area=true)](https://github.com/AdityaSahoo7)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSahoo7&theme=github-compact&area=true&hide_border=true&custom_title=Aditya's%20Contribution%20Graph)](https://github.com/AdityaSahoo7)
 
 
 ![Streak](https://streak-stats.demolab.com/?user=Adityasahoo7&theme=blue-green&cache_seconds=86400)
