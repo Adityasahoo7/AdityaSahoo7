@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aditya Narayan Sahoo
+# Hi 👋, I'm Aditya Narayan 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=.NET+Full+Stack+Developer;Building+Scalable+Web+Applications;.Net+%7c+Angular+%7C+Azure+Cloud;Clean+Code+%7C+High+Performance)
 
 
