@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, TypeScript  
-- 🌐 Frontend: Angular, HTML, CSS  
+- 🌐 Frontend: Angular
 - 🔧 Backend: ASP.NET Core, Web API  , Entity Framework 
 - 🗄️ Database: SQL Server  
 - ☁️ Cloud & DevOps: Azure, Azure DevOps  
