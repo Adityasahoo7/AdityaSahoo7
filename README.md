@@ -21,7 +21,7 @@
 - 🔧 Backend: ASP.NET Core, Web API  , Entity Framework ,LINQ, Microservices 
 - 🗄️ Database: SQL Server  
 - ☁️ Cloud & DevOps: Azure, Azure DevOps  
-- ⚙️ Tools: Git, Postman ,Swagger , Chatgpt 
+- ⚙️ Tools: GitHub, Postman ,Swagger , Chatgpt 
 
 ---
 
