@@ -60,7 +60,7 @@
 
 > Full-stack employee management application built using ASP.NET Core Web API and Angular.
 
-**Tech:** `C#` `ASP.NET Core` `Angular` `SQL Server` `Entity Framework`
+**Tech:** `C#` `ASP.NET Core` `Angular` `SQL Server` `Entity Framework` `WEB API`
 
 ---
 
