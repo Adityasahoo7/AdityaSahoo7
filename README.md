@@ -96,10 +96,14 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasahoo7&theme=github-compact&area=true&hide_border=true&custom_title=Aditya%27s%20Contribution%20Graph)](https://github.com/Adityasahoo7)
+
 
 ## 📈 Contribution Graph
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSahoo7\&theme=github-compact\&area=true\&hide_border=true\&custom_title=Aditya's%20Contribution%20Graph)](https://github.com/AdityaSahoo7)
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasahoo7&theme=github-compact&area=true&hide_border=true&days=90&custom_title=Aditya%27s%20Contribution%20Graph)](https://github.com/Adityasahoo7)
 
 ---
 
