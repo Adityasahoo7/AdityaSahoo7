@@ -88,19 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSahoo7&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSahoo7&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-## 📈 Contribution Graph
-
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSahoo7&theme=github-compact&area=true&hide_border=true&custom_title=Aditya%27s%20Contribution%20Graph)](https://github.com/AdityaSahoo7)
-
-
 
 ---
 
